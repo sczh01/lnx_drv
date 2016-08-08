@@ -1,0 +1,1 @@
+cmd_/sdd1/opt/drv/mod_invoke/B_func/B_func.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-21-generic/scripts/module-common.lds --build-id -o /sdd1/opt/drv/mod_invoke/B_func/B_func.ko /sdd1/opt/drv/mod_invoke/B_func/B_func.o /sdd1/opt/drv/mod_invoke/B_func/B_func.mod.o

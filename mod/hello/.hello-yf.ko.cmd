@@ -1,0 +1,1 @@
+cmd_/sdd1/opt/drv/mod/hello/hello-yf.ko := arm-linux-androideabi-ld -r  -T /sdc1/sdb/goldfish/scripts/module-common.lds --build-id  -o /sdd1/opt/drv/mod/hello/hello-yf.ko /sdd1/opt/drv/mod/hello/hello-yf.o /sdd1/opt/drv/mod/hello/hello-yf.mod.o
